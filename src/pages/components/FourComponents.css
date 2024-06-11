@@ -1,0 +1,16 @@
+button {
+    background-color: black;
+    border: 1px solid yellow;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    color: white;
+    cursor: pointer;
+    width: 20%;
+    
+}
+
+button:hover {
+    background-color: rgb(61, 61, 61);
+    color: greenyellow;
+}
